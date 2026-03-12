@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+    booking
+*@
+@{
+}
+@model IEnumerable<EventEase.Models.Booking>
+
+<h2>Employees</h2>
+
+<p>
+    <a asp-action="Create">Create New Booking</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>B_Date</th>
+            <th>B_Time</th>
+            <th>B_Name</th>
+            <th>BookingID</th>
+            <th>ContactInfo</th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                
+                <td>@item.B_Date</td>
+                <td>@item.B_Time</td>
+                <td>@item.B_Name</td>
+                <td>@item.BookingID</td>
+                <td>@item.ContactInfo</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.BookingID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.BookingID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.BookingID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

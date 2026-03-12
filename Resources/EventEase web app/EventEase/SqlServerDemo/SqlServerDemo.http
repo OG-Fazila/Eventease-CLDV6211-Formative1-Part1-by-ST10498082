@@ -1,0 +1,6 @@
+@SqlServerDemo_HostAddress = http://localhost:5281
+
+GET {{SqlServerDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

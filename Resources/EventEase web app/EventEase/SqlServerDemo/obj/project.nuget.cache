@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kcuR2McIZec=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Studies at VC\\2026\\cloud\\That project POE1\\Resources\\EventEase web app\\EventEase\\SqlServerDemo\\SqlServerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

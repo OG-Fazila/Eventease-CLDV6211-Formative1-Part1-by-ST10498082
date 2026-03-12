@@ -1,0 +1,9 @@
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Studies at VC\2026\cloud\That project POE1\Resources\EventEase web app\EventEase\obj\Debug\net10.0\EventEase.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Studies at VC\2026\cloud\That project POE1\Resources\EventEase web app\EventEase\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Studies at VC\2026\cloud\That project POE1\Resources\EventEase web app\EventEase\obj\Debug\net10.0\EventEase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Studies at VC\2026\cloud\That project POE1\Resources\EventEase web app\EventEase\obj\Debug\net10.0\EventEase.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Studies at VC\2026\cloud\That project POE1\Resources\EventEase web app\EventEase\obj\Debug\net10.0\EventEase.AssemblyInfo.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Studies at VC\2026\cloud\That project POE1\Resources\EventEase web app\EventEase\obj\Debug\net10.0\EventEase.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Studies at VC\2026\cloud\That project POE1\Resources\EventEase web app\EventEase\obj\Debug\net10.0\EventEase.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Studies at VC\2026\cloud\That project POE1\Resources\EventEase web app\EventEase\obj\Debug\net10.0\EventEase.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Studies at VC\2026\cloud\That project POE1\Resources\EventEase web app\EventEase\obj\Debug\net10.0\EventEase.RazorAssemblyInfo.cs
